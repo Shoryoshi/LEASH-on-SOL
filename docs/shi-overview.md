@@ -248,7 +248,7 @@ Revenue Increase: 500% (5x more fees)
 **Ready to realize Ryoshi's vision and build the future of SHI?** 
 
 - **Telegram**: [https://t.me/officialleashtoken](https://t.me/officialleatoken)
-- **GitHub**: [https://github.com/Shoryoshi/LEASH](https://github.com/Shoryoshi/LEASH)
+- **GitHub**: [https://github.com/Shoryoshi/LEASH-on-SOL](https://github.com/Shoryoshi/LEASH-on-SOL)
 - **Twitter**: [@leashonbags](https://x.com/leashonbags)
 
 ---

@@ -20,8 +20,8 @@ anchor --version        # Should be 0.29.0+
 ### **2. Clone & Setup**
 ```bash
 # Fork and clone the repository
-git clone https://github.com/Shoryoshi/LEASH.git
-cd LEASH
+git clone https://github.com/Shoryoshi/LEASH-on-SOL.git
+cd LEASH-on-SOL
 
 # Install dependencies
 pnpm install
@@ -87,8 +87,8 @@ solana airdrop 2
 ### **Step 3: Project Setup**
 ```bash
 # Clone the repository
-git clone https://github.com/Shoryoshi/LEASH.git
-cd LEASH
+git clone https://github.com/Shoryoshi/LEASH-on-SOL.git
+cd LEASH-on-SOL
 
 # Install dependencies
 pnpm install
@@ -217,7 +217,7 @@ anchor test --provider.cluster localnet
 
 ### **Community Channels**
 - **Telegram**: [https://t.me/officialleatoken](https://t.me/officialleatoken)
-- **GitHub**: [https://github.com/Shoryoshi/LEASH](https://github.com/Shoryoshi/LEASH)
+- **GitHub**: [https://github.com/Shoryoshi/LEASH-on-SOL](https://github.com/Shoryoshi/LEASH-on-SOL)
 - **X/Twitter**: [https://x.com/leashonbags](https://x.com/leashonbags)
 
 ### **Development Help**

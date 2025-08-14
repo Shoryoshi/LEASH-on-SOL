@@ -250,7 +250,7 @@ The **Cross-Chain NFT Bridge** represents a new era of NFT utility, allowing Shi
 **Ready to bridge your NFTs to Solana?** 🚀
 
 - **Telegram**: [https://t.me/officialleashtoken](https://t.me/officialleashtoken)
-- **GitHub**: [https://github.com/Shoryoshi/LEASH](https://github.com/Shoryoshi/LEASH)
+- **GitHub**: [https://github.com/Shoryoshi/LEASH-on-SOL](https://github.com/Shoryoshi/LEASH-on-SOL)
 - **Twitter**: [@leashonbags](https://x.com/leashonbags)
 
 ---

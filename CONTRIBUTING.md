@@ -67,8 +67,8 @@ Help grow our community!
 ### **Development Setup**
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/Shoryoshi/LEASH.git
-   cd LEASH
+   git clone https://github.com/Shoryoshi/LEASH-on-SOL.git
+   cd LEASH-on-SOL
    ```
 
 2. **Install dependencies**

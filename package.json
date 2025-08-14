@@ -65,10 +65,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Shoryoshi/LEASH.git"
+    "url": "https://github.com/Shoryoshi/LEASH-on-SOL.git"
   },
   "bugs": {
-    "url": "https://github.com/Shoryoshi/LEASH/issues"
+    "url": "https://github.com/Shoryoshi/LEASH-on-SOL/issues"
   },
-  "homepage": "https://github.com/Shoryoshi/LEASH#readme"
+  "homepage": "https://github.com/Shoryoshi/LEASH-on-SOL#readme"
 }

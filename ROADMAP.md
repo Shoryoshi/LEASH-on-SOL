@@ -251,7 +251,7 @@ We're building the future of DeFi on Solana, and we want you to be part of it.
 **Ready to realize Ryoshi's vision and build the future of LEASH?** 
 
 - **Telegram**: [https://t.me/officialleashtoken](https://t.me/officialleashtoken)
-- **GitHub**: [https://github.com/Shoryoshi/LEASH](https://github.com/Shoryoshi/LEASH)
+- **GitHub**: [https://github.com/Shoryoshi/LEASH-on-SOL](https://github.com/Shoryoshi/LEASH-on-SOL)
 - **Twitter**: [@leashonbags](https://x.com/leashonbags)
 
 ---
