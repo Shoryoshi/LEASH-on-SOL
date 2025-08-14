@@ -1,0 +1,25 @@
+[package]
+name = "leash-staking"
+version = "1.0.0"
+description = "LEASH V2 Staking Program - Single-sided staking with LP fee distribution"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "leash_staking"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+solana-program = "1.17.0"
+spl-token = { version = "4.0.0", features = ["no-entrypoint"] }
+spl-associated-token-account = { version = "4.0.0", features = ["no-entrypoint"] }
+spl-math = "0.1.0"
+decimal = "0.1.0"

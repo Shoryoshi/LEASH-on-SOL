@@ -1,0 +1,70 @@
+{
+  "ethereum": {
+    "LEASH_V1_ETH": "0x27c70cd1946795b66be9d954418546998b546634"
+  },
+  "solana": {
+    "LEASH_V2_SOL_MINT": "AoSDadtpbGM3aPB5BiR9TkBhvRttgWxKp2ggRcrYBAGS",
+    "WLEASH_SOL_MINT": "DEe9T7WYztthBcivf1LFuG4gSZ5N2Dw1D72cUsYRztsF",
+    "LEASH_V2_WLEASH_LP": "25hDGB6b3NK6QnATx7ATNeH81xLv644N1DjeTpUgFWJr",
+    "SHI_MINT": "SHiToken111111111111111111111111111111111111111",
+    "SHI_SOL_LP": "SHiSoL111111111111111111111111111111111111111",
+    "SHI_USDC_LP": "SHiUSDC11111111111111111111111111111111111111",
+    "SHI_USDT_LP": "SHiUSDT11111111111111111111111111111111111111",
+    "SHI_LEASH_LP": "SHiLEASH11111111111111111111111111111111111111"
+  },
+  "networks": {
+    "mainnet": {
+      "ethereum": "https://mainnet.infura.io/v3/",
+      "solana": "https://api.mainnet-beta.solana.com"
+    },
+    "devnet": {
+      "ethereum": "https://goerli.infura.io/v3/",
+      "solana": "https://api.devnet.solana.com"
+    },
+    "testnet": {
+      "ethereum": "https://sepolia.infura.io/v3/",
+      "solana": "https://api.testnet.solana.com"
+    }
+  },
+  "programs": {
+    "leash_staking": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+    "veleash": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+    "doggy_dao": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+    "treasury": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+    "gatekeeper": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+    "merkle_distributor": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+    "nft_bridge": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS",
+    "shi_stablecoin": "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+  },
+  "tokens": {
+    "LEASH_V2": {
+      "symbol": "LEASH",
+      "decimals": 9,
+      "description": "LEASH V2 on Solana - The return of the hound"
+    },
+    "WLEASH": {
+      "symbol": "wLEASH",
+      "decimals": 9,
+      "description": "Wrapped LEASH for cross-chain operations"
+    },
+    "SHI": {
+      "symbol": "SHI",
+      "decimals": 6,
+      "description": "Algorithmic stablecoin maintaining $1.00 USD peg"
+    }
+  },
+  "_notes": {
+    "status": "This file contains a mix of real and placeholder addresses for development purposes",
+    "real_addresses": [
+      "LEASH_V1_ETH - Actual deployed Ethereum contract"
+    ],
+    "placeholder_addresses": [
+      "All Solana program IDs (using test program ID)",
+      "All Solana token mints and LP addresses",
+      "All SHI-related addresses (obviously fake patterns)",
+      "All WLEASH and LP addresses"
+    ],
+    "when_live": "Replace placeholders with actual deployed addresses after mainnet deployment",
+    "development": "Use these placeholders for local development and testing"
+  }
+}
