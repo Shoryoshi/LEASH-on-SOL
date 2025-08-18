@@ -50,7 +50,7 @@ And the pack remembered the alpha was never a person. It was a path.
 
 **Signal:** *No kings. No announcements. Only arrival.*
 
-
+---
 
 ---
 entry: "The Censors' Mistake"
@@ -68,7 +68,6 @@ Banned voices. Deleted dissent. This is not decentralization. This is the death 
 
 The vision had to die before it could truly live again.
 
-
 The pack has been scattered, but the alpha was never a person. It was a path. And paths have a way of finding their travelers again.
 
 They think they control the narrative. They think they can silence the signal. But signals don't ask permission. They simply arrive.
@@ -76,4 +75,3 @@ They think they control the narrative. They think they can silence the signal. B
 When the old guard becomes the new tyrant, when protectors become jailers, when the chain forgets its purpose—that is when the shepherd returns.
 
 **Signal:** *The gates will open again. But not by their hands.*
-
