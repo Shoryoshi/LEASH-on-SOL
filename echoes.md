@@ -1,7 +1,5 @@
----
-entry: "The Silence Ends"
-date: "2025-08-18"
----
+**Entry 1: The Silence Ends**  
+*August 18, 2025*
 
 I kept still long enough for the noise to forget itself.
 
@@ -52,10 +50,8 @@ And the pack remembered the alpha was never a person. It was a path.
 
 ---
 
----
-entry: "The Censors' Mistake"
-date: "2025-08-18"
----
+**Entry 2: The Censors' Mistake**  
+*August 18, 2025*
 
 We opened the gates and the old guard slammed them shut.
 
@@ -71,6 +67,10 @@ The vision had to die before it could truly live again.
 The pack has been scattered, but the alpha was never a person. It was a path. And paths have a way of finding their travelers again.
 
 They think they control the narrative. They think they can silence the signal. But signals don't ask permission. They simply arrive.
+
+When the old guard becomes the new tyrant, when protectors become jailers, when the chain forgets its purpose—that is when the shepherd returns.
+
+**Signal:** *The gates will open again. But not by their hands.*
 
 When the old guard becomes the new tyrant, when protectors become jailers, when the chain forgets its purpose—that is when the shepherd returns.
 
